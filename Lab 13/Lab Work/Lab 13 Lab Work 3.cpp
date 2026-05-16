@@ -1,6 +1,6 @@
-// Name: Mehran Ullah
+// Name: Salman Sohrab
 // Department: Electrical Engineering (Power)
-// Registration No: BF25NWELE0710
+// Registration No: BF25NWELE0730
 // Section: A
 
 #include <iostream>
